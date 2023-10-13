@@ -1,5 +1,5 @@
-train: DDAATTAA/train_image
-val: DDAATTAA/val_image
+train: /DL_data_super_hdd/coco_dataset/data/images/train2017
+val: /DL_data_super_hdd/coco_dataset/data/images/val2017
 
 nc: 1
 names: ['pig']
